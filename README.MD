@@ -9,3 +9,9 @@ Sou estudante do curso de matemática e também mentorando pela PodCodar. Já vi
 Nesse primeiro ciclo irei aprofundar nas linguagens de  HTML, CSS e iniciar os estudos em Java Script.
 
 
+## Segundo ciclo
+
+Nesse segundo ciclo irei aprofundar em Java Script e iniciar os estudos em REACT.
+
+Saudações
+
