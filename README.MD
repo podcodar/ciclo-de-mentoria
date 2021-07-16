@@ -13,5 +13,9 @@ Nesse primeiro ciclo irei aprofundar nas linguagens de  HTML, CSS e iniciar os e
 
 Nesse segundo ciclo irei aprofundar em Java Script e iniciar os estudos em REACT.
 
+## Terceiro ciclo
+
+Nesse terceiro ciclo irei trabalhar no projeto do site PodCodar, explorando as ferramentas envolvendo REACT.
+
 Saudações
 
